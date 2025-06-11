@@ -52,25 +52,36 @@ For sample code and contributions, please see the pinned repositories below.
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliverruben&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverruben&theme=default" alt="GitHub Streak" height="150">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliverruben&theme=github" alt="Contribution Graph" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=29cmb&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="150">
+  <img src="https://streak-stats.demolab.com/?user=29cmb" alt="GitHub Streak" height="150">
 </p>
 
 ---
 
 ## Contact
 
-If you would like to discuss collaboration, consulting, or have questions about large-scale VoIP, WebRTC, or streaming system design, I welcome professional inquiries. 
+For professional inquiries, collaboration, or consultation regarding VoIP, SIP, WebRTC, or streaming solutions, please use one of the methods below:
 
-- **Email:** oliverruben042@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/oliver-ruben-99651a33b
-- **WhatsApp:** +1 706 664 5169
-- **Telegram:** https://t.me/dsky42
+<table>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:oliverruben042@gmail.com">oliverruben042@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/oliver-ruben-99651a33b">oliver-ruben-99651a33b</a></td>
+  </tr>
+  <tr>
+    <td><strong>WhatsApp</strong></td>
+    <td><a href="https://wa.me/17066645169">+1 706 664 5169</a></td>
+  </tr>
+  <tr>
+    <td><strong>Telegram</strong></td>
+    <td><a href="https://t.me/dsky42">@dsky42</a></td>
+  </tr>
+</table>
 
-I look forward to connecting with professionals, teams, and organizations working in real-time communications and next-generation telephony.
+If your project, team, or organization is working in real-time communications and next-generation telephony, I welcome your message.
 
 ---
 
