@@ -1,96 +1,79 @@
-<!-- HEADER BANNER -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2138A0,100:41E6FF&text=Oliver%20Ruben&fontSize=38&fontAlign=70&fontAlignY=40&desc=VoIP%20%7C%20WebRTC%20%7C%20SIP%20%7C%20Streaming%20Expert&descAlign=70&descAlignY=65" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2138A0,100:41E6FF&text=Oliver%20Ruben&fontSize=38&fontAlign=70&fontAlignY=40&desc=VoIP%20%7C%20WebRTC%20%7C%20SIP%20%7C%20Streaming%20Engineer&descAlign=70&descAlignY=65" alt="banner"/>
 </p>
 
-<h2 align="center">👋 Welcome! I'm <span style="color:#2196f3">Oliver Ruben</span></h2>
-<p align="center">
-  <b>Senior VoIP Engineer | WebRTC & SIP Server Specialist | Real-Time Streaming Solutions Architect</b>
-</p>
+# Oliver Ruben
+
+Senior VoIP Engineer | WebRTC and Streaming Technology Specialist
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a passionate and results-driven VoIP engineer with <b>10+ years</b> of hands-on expertise in designing, deploying, and optimizing large-scale, real-time communication platforms.  
-I am deeply versed in VoIP, WebRTC, and streaming technologies, with a proven track record across telecom, enterprise, and SaaS industries.
+I am a telecommunications engineer with over a decade of deep, hands-on experience in VoIP, SIP signaling, and real-time media streaming. My background includes designing, building, and maintaining reliable, high-performance communication systems for service providers and enterprise clients. 
 
-- 🏆 <b>Expert in SIP Servers:</b> Freeswitch, Kamailio, OpenSIPS, Asterisk, RTPengine
-- 🌐 <b>WebRTC & Media Streaming:</b> End-to-end media path design, NAT traversal, TURN/STUN, SFU/MCU integration
-- 🧩 <b>Protocols:</b> SIP, RTP, SRTP, ICE, SDP, WebSocket, HTTP/2, SIPREC
-- ⚡ <b>Scaling & Resilience:</b> High-availability clusters, load balancing, distributed architectures
-- 🛡️ <b>Security:</b> TLS, SRTP, ZRTP, authentication, anti-fraud
-- 🛠️ <b>DevOps & Automation:</b> Ansible, Docker, Kubernetes, CI/CD for telephony
-- 🖥️ <b>Languages:</b> Python, Bash, Lua, C/C++, Node.js
+My primary technical focus is on SIP server engineering, large-scale WebRTC deployments, media proxying, and building resilient, secure, and scalable platforms for real-time voice and video services. I am passionate about open source, protocol analysis, and robust system architecture.
+
+**Areas of expertise:**
+
+- SIP server development and operations (Freeswitch, Kamailio, OpenSIPS, Asterisk)
+- WebRTC signaling and media path, including TURN/STUN, ICE, RTP/SRTP
+- Large-scale system design: high-availability, failover, load balancing, clustering
+- Security best practices for VoIP, including encryption, anti-fraud, and abuse mitigation
+- Monitoring and troubleshooting (Homer SIP Capture, Prometheus, Grafana)
+- Automation and deployment (Ansible, Docker, Kubernetes)
+- Scripting and backend integrations (Python, Bash, Node.js, C/C++)
 
 ---
 
-## 📚 My Tech Toolbox
+## Core Technologies
+
+- **SIP Servers:** Freeswitch, Kamailio, OpenSIPS, Asterisk, RTPengine
+- **WebRTC Stack:** TURN/STUN, ICE, SFU/MCU, SDP, NAT traversal
+- **Protocols:** SIP, RTP, SRTP, ZRTP, SIPREC, WebSocket, HTTP/2
+- **DevOps:** Docker, Kubernetes, Ansible, Linux server administration
+- **Monitoring:** Prometheus, Grafana, Homer, VoIPmonitor
+
+---
+
+## Selected Work & Open Source Projects
+
+- Advanced SIP routing and dynamic least cost routing modules for Kamailio and OpenSIPS
+- WebRTC gateways and media bridges for secure connectivity between browsers and SIP endpoints
+- Automation pipelines for telecom infrastructure deployment (CI/CD, Docker Compose, Kubernetes)
+- Real-time analytics dashboards for VoIP and streaming traffic
+- Custom integrations for fraud detection and automated abuse response
+
+For sample code and contributions, please see the pinned repositories below.
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Freeswitch-Expert-blue?style=for-the-badge&logo=voip" />
-  <img src="https://img.shields.io/badge/Kamailio-Guru-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenSIPS-Architect-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Asterisk-Advanced-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebRTC-Specialist-orange?style=for-the-badge&logo=webrtc" />
-  <img src="https://img.shields.io/badge/RTPengine-Media%20Proxy-9cf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Automation-blueviolet?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Linux-Server%20Admin-333?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-Cloud-326ce5?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible" />
-</p>
-
----
-
-## 📝 Open Source & Projects
-
-- **Carrier-Grade SIP Routing:** Custom modules for Kamailio/OpenSIPS (anti-fraud, dynamic routing, LCR)
-- **WebRTC Signaling & Media Gateways:** TURN/STUN, NAT traversal, ICE, SFU/MCU bridging
-- **Real-Time Dashboards & Monitoring:** Prometheus, Grafana, Homer SIP capture, OpenSIPS statistics
-- **VoIP Security:** Automated threat detection, fraud prevention, DoS/DDoS mitigation
-- **DevOps for Telecom:** Automated deployments (Ansible, Docker Compose, K8s) for VoIP clusters
-
-Check my pinned repositories below for examples and code samples.
-
----
-
-## 📈 GitHub Stats & Contribution Patterns
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliverruben&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverruben&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oliverruben&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverruben&theme=default" alt="GitHub Streak" height="150">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliverruben&theme=tokyo-night" alt="Contribution Graph" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliverruben&theme=github" alt="Contribution Graph" height="180">
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## Contact
 
-<table>
-  <tr>
-    <td><b>Email</b></td>
-    <td><a href="mailto:oliverruben042@gmail.com">oliverruben042@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><b>LinkedIn</b></td>
-    <td><a href="https://www.linkedin.com/in/oliver-ruben-99651a33b">oliver-ruben-99651a33b</a></td>
-  </tr>
-  <tr>
-    <td><b>WhatsApp</b></td>
-    <td><a href="https://wa.me/17066645169">+1 706 664 5169</a></td>
-  </tr>
-  <tr>
-    <td><b>Telegram</b></td>
-    <td><a href="https://t.me/dsky42">@dsky42</a></td>
-  </tr>
-</table>
+If you would like to discuss collaboration, consulting, or have questions about large-scale VoIP, WebRTC, or streaming system design, I welcome professional inquiries. 
+
+- **Email:** oliverruben042@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/oliver-ruben-99651a33b
+- **WhatsApp:** +1 706 664 5169
+- **Telegram:** https://t.me/dsky42
+
+I look forward to connecting with professionals, teams, and organizations working in real-time communications and next-generation telephony.
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2138A0,100:41E6FF&height=70&section=footer"/>
 </p>
