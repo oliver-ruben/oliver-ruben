@@ -77,7 +77,7 @@ For professional inquiries, collaboration, or consultation regarding VoIP, SIP, 
   </tr>
   <tr>
     <td><strong>Telegram</strong></td>
-    <td><a href="https://t.me/dsky42">@dsky42</a></td>
+    <td><a href="https://t.me/dsky2342">@dsky2342</a></td>
   </tr>
 </table>
 
