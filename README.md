@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2138A0,100:41E6FF&text=Oliver%20Ruben&fontSize=38&fontAlign=70&fontAlignY=40&desc=VoIP%20%7C%20WebRTC%20%7C%20SIP%20%7C%20Streaming%20Engineer&descAlign=70&descAlignY=65" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2138A0,100:41E6FF&text=Hans%20Tan&fontSize=38&fontAlign=70&fontAlignY=40&desc=VoIP%20%7C%20WebRTC%20%7C%20SIP%20%7C%20Streaming%20Engineer&descAlign=70&descAlignY=65" alt="banner"/>
 </p>
 
-# Oliver Ruben
+# Hans Tan
 
 Senior VoIP Engineer | WebRTC and Streaming Technology Specialist
 
@@ -65,11 +65,11 @@ For professional inquiries, collaboration, or consultation regarding VoIP, SIP, 
 <table>
   <tr>
     <td><strong>Email</strong></td>
-    <td><a href="mailto:oliverruben042@gmail.com">oliverruben042@gmail.com</a></td>
+    <td><a href="mailto:hanstan420@gmail.com">hanstan420@gmail.com</a></td>
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="https://www.linkedin.com/in/oliver-ruben-99651a33b">oliver-ruben-99651a33b</a></td>
+    <td><a href="https://www.linkedin.com/">Hans tan</a></td>
   </tr>
   <tr>
     <td><strong>WhatsApp</strong></td>
@@ -77,7 +77,7 @@ For professional inquiries, collaboration, or consultation regarding VoIP, SIP, 
   </tr>
   <tr>
     <td><strong>Telegram</strong></td>
-    <td><a href="https://t.me/dsky2342">@dsky2342</a></td>
+    <td><a href="https://t.me/hanstan0">@hanstan0</a></td>
   </tr>
 </table>
 
